@@ -1,9 +1,9 @@
 # RatingView
-SwiftUI Rating view
+SwiftUI Rating view resuable component. 
 
 # Features
 
-*  Fully adaptive and use interactive enabled
+*  Fully adaptive and user interactive enabled
 *  Floating number rating 
 *  Set your own custom max rating elements
 *  Uses Apple SF Symoble for the Image view icons
